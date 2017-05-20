@@ -6,7 +6,8 @@ REST API Sign In with LinkedIn
 ##### 串接郵件需要權限：r_emailaddress
 [api]:https://developer.linkedin.com/docs/fields/basic-profile
 ***
-####  NSURLSession使用Apple於iOS7的時候,推出了NSURLConnection的後繼者一NSURLSession 
+####  NSURLSession  
+Apple於iOS7的時候,推出了NSURLConnection的後繼者一NSURLSession 
 * 可以進行更詳細的設定。 
 * 可以對於每一個工作進行取消、暫停、繼續等動作。 
 * 當App暫停在背景時,仍可以進行上傳與下載的作業。
